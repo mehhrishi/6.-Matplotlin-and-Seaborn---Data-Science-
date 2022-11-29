@@ -1,1 +1,2 @@
-# 6.-Matplotlin-and-Seaborn---Data-Science-
+# 6. Matplotlin-and-Seaborn - Data Science
+Matplotlib and Seaborn are two of the most popular libraries used for data visualization in Python. Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. It is designed to work with the broader SciPy stack and allows for powerful visualizations of data. Seaborn is a Python data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. Seaborn is built on top of Matplotlib and provides better visuals, more style options, and easier syntax. Both libraries have powerful features and can be used to create stunning visualizations.
